@@ -1,6 +1,0 @@
-{
-  "name": "Elor_TT",
-  "description": "An elegant, professional document editor developed by Nethels Industries. Preview and edit structured files seamlessly.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
